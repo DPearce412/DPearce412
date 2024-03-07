@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is D. Pearce (he/him) I'm currently working on becoming a software developer. I'm currently learning myriad things at once. I'm looking for help along this journey. 
+
 <!--
 **DPearce412/DPearce412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
