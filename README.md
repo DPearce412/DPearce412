@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is D. Pearce (he/him) I'm currently working on becoming a software developer. I'm currently learning myriad things at once. I'm looking for help along this journey. 
+D.Pearce here. I'm currently working on becoming a professional software developer. Recent TechElevator bootcamp graduate, and now I'm working on my own projects to keep my skills honed. Working on my text-based adventure game that leans into my strengths as a writer of weird fiction. Simultaneously building a website for my own underground metal cassette tape label, the Vile Reliquary. 
 
 <!--
 **DPearce412/DPearce412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
