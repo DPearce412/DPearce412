@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-D.Pearce here. I'm currently working on becoming a professional software developer. Recent TechElevator bootcamp graduate, and now I'm working on my own projects to keep my skills honed. Working on my text-based adventure game that leans into my strengths as a writer of weird fiction. Simultaneously building a website for my own underground metal cassette tape label, the Vile Reliquary. 
+D.Pearce here. I'm currently working on becoming a professional software developer. Coming in as a recent TechElevator bootcamp graduate; now I'm working on more solo projects to keep my skills honed. That means: ever-refining and adding on to my text-based adventure game, which leans into my strengths as a writer of weird fiction. And simultaneously building a website for my own underground metal cassette tape label, the Vile Reliquary. 
 
 <!--
 **DPearce412/DPearce412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
